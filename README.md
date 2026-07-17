@@ -133,6 +133,3 @@ Visualizations included in the notebook:
 - Train branches separately before fine-tuning the fused model.
 
 
-## 👤 Author
-
-Submitted as part of the AI/ML Engineering Internship at **DevelopersHub Corporation**.
