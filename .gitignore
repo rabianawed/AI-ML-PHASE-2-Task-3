@@ -1,0 +1,7 @@
+Houses-dataset-master/
+*.jpg
+*.png
+*.jpeg
+*.h5
+*.pth
+*.pt
